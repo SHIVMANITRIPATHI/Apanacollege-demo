@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first repository
 <br>
-author-shivmani
+author-shiva(shivmani tripathi)
